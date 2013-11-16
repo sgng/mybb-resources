@@ -1,4 +1,4 @@
-auto:        true
+#auto:        true
 pygments: true
 baseurl:    /
 url: http://sgng.github.io/mybbresources
