@@ -1,3 +1,4 @@
 auto:        true
+pygments: true
 baseurl:    /
-url: http://docs.mybb.com
+url: http://sgng.github.io/mybbresources
